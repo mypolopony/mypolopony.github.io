@@ -1,0 +1,59 @@
+/*
+Accent colors from the 'bashling' color scheme:
+
+$blue:                  #007eb3;
+$blueDark:              #0064cd;
+$green:                 #46a546;
+$red:                   #9d261d;
+$yellow:                #ffc40d;
+$orange:                #f89406;
+$pink:                  #bc0085;
+$purple:                #7a43b6;
+*/
+
+ Global
+* {
+    font-family: monaco, Consolas, 'Lucida Console', monospace;
+  }
+
+body {
+    background-color: #151515;
+    font-size: 1em;
+	line-height: 1.4;
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
+}
+
+h1 {
+    font-family: monaco, Consolas, 'Lucida Console', monospace;
+	color: #ffd02d;
+}
+
+h2 {
+	color: #007eb3;
+}
+
+p {
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
+	font-size: .85em;
+	color: #ffc40d;
+	margin-left:4px;
+	text-align:justify;
+}
+
+b {
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
+	color: #ab72da;
+}
+
+i {
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
+	color: #ffc40d;
+}
+
+#wrapper {
+	padding: 5px;
+	width: 650px;
+	position: absolute;
+	top: 10%;
+	left: 30%;
+}
