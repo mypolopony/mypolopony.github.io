@@ -4,28 +4,23 @@ Accent colors from the 'bashling' color scheme:
 $blue:                  #007eb3;
 $blueDark:              #0064cd;
 $green:                 #46a546;
-$red:                   #9d261d;
+$red:                   #ff110d;
 $yellow:                #ffc40d;
 $orange:                #f89406;
 $pink:                  #bc0085;
+$brightpink:			#e3005a;
+#notsobrightpink:		#9c003d;
 $purple:                #7a43b6;
+$fern:					#6AB176;
 */
-
- Global
-* {
-    font-family: monaco, Consolas, 'Lucida Console', monospace;
-  }
 
 body {
     background-color: #151515;
-    font-size: 1em;
-	line-height: 1.4;
-	font-family: monaco, Consolas, 'Lucida Console', monospace;
+	line-height: 1.2;
 }
 
 h1 {
-    font-family: monaco, Consolas, 'Lucida Console', monospace;
-	color: #ffd02d;
+	color: #E3005A;
 }
 
 h2 {
@@ -33,27 +28,59 @@ h2 {
 }
 
 p {
-	font-family: monaco, Consolas, 'Lucida Console', monospace;
-	font-size: .85em;
+	font-size: 0.85em;
 	color: #ffc40d;
-	margin-left:4px;
-	text-align:justify;
+	margin-left: 4px;
+	text-align: justify;
 }
 
 b {
-	font-family: monaco, Consolas, 'Lucida Console', monospace;
-	color: #ab72da;
+	color: #ff110d;;
 }
 
-i {
-	font-family: monaco, Consolas, 'Lucida Console', monospace;
-	color: #ffc40d;
+hl {
+	color: #6AB176;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    width: 80%;
+    border-bottom: 1px dotted #ffc40d;
+    opacity: .75;
+}
+
+#subh {
+	color: #9c003d;
+	font-size: 0.75em;
 }
 
 #wrapper {
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
 	padding: 5px;
-	width: 650px;
+	width: 730px;
 	position: absolute;
 	top: 10%;
-	left: 30%;
+	left: 20%;
+}
+
+/* 
+Why are a's so dumb?
+*/
+
+a:link {
+    color: #ff110d;
+    text-decoration: none;
+}
+a:visited {
+    color: #ff110d;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff110d;
+    text-decoration: none;
+}
+a:active {
+    color: #ff110d;
+    text-decoration: none;
 }
