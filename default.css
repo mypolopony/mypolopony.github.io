@@ -42,17 +42,12 @@ hl {
 	color: #6AB176;
 }
 
-hr{
+hr {
     border: 0;
     height: 0;
     width: 80%;
     border-bottom: 1px dotted #ffc40d;
     opacity: .75;
-}
-
-#subh {
-	color: #9c003d;
-	font-size: 0.75em;
 }
 
 #wrapper {
@@ -64,9 +59,15 @@ hr{
 	left: 20%;
 }
 
-/* 
-Why are a's so dumb?
-*/
+div.subh {
+	color: #ffc40d;
+	font-size: 0.75em;
+}
+
+a.subh {
+	color: #a9cfb0;
+	font-size: 0.75em;
+}
 
 a:link {
     color: #a9cfb0;
