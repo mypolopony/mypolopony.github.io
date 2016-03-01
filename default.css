@@ -60,18 +60,27 @@ hr {
 }
 
 div.subh {
-	color: #ff110d;
+	color: #000000;
 	font-size: 0.75em;
 }
 
 a.subh {
-	color: #ff110d;
-	font-size: 0.75em;
+	color: #E3005A;
+	text-decoration: none;
 }
 
-a:link {
-    color: #ff110d;
+a.subh:hover {
+    color: #fa00ba;
     text-decoration: none;
+}
+
+a {
+	color: #ff110d;
+	text-decoration: none;
+}
+
+/*
+a:link {
 }
 a:visited {
     color: #ff110d;
@@ -85,3 +94,4 @@ a:active {
     color: #ff110d;
     text-decoration: none;
 }
+*/
