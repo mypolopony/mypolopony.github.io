@@ -1,0 +1,97 @@
+/*
+Accent colors from the 'bashling' color scheme, for reference:
+
+$blue:                  #007eb3;
+$blueDark:              #0064cd;
+$green:                 #46a546;
+$red:                   #ff110d;
+$yellow:                #ffc40d;
+$orange:                #f89406;
+$pink:                  #bc0085;
+$brightpink:			#e3005a;
+#notsobrightpink:		#9c003d;
+$purple:                #7a43b6;
+$fern:					#6AB176;
+*/
+
+body {
+    background-color: #151515;
+	line-height: 1.2;
+}
+
+h1 {
+	color: #E3005A;
+}
+
+h2 {
+	color: #007eb3;
+}
+
+p {
+	font-size: 0.85em;
+	color: #ffc40d;
+	margin-left: 4px;
+	text-align: justify;
+}
+
+b {
+	color: #ff110d;;
+}
+
+hl {
+	color: #6AB176;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    width: 80%;
+    border-bottom: 1px dotted #ffc40d;
+    opacity: .75;
+}
+
+#wrapper {
+	font-family: monaco, Consolas, 'Lucida Console', monospace;
+	padding: 5px;
+	width: 730px;
+	position: absolute;
+	top: 10%;
+	left: 20%;
+}
+
+div.subh {
+	color: #000000;
+	font-size: 0.75em;
+}
+
+a.subh {
+	color: #E3005A;
+	text-decoration: none;
+}
+
+a.subh:hover {
+    color: #fa00ba;
+    text-decoration: none;
+}
+
+a {
+	color: #ff110d;
+	text-decoration: none;
+}
+
+/*
+a:link {
+}
+a:visited {
+    color: #ff110d;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff110d;
+    text-decoration: underline;
+}
+a:active {
+    color: #ff110d;
+    text-decoration: none;
+}
+*/
