@@ -15,7 +15,7 @@
 <meta http-equiv="Expires" content="0" />>
 
 <title>
-Selwyn-Lloyd McPherson, 2020
+Selwyn-Lloyd McPherson, 2021
 </title>
 <link rel="icon" type="image/png" href="images/favicon.ico">
 <script language='Javascript'>
@@ -25,11 +25,6 @@ window.open(window_src, 'newwindow', config='height=800, width=520, '
     + 'directories=no, status=no');
 }
 </script>
-
-<!-- Ident -->
-<style type="text/css">
- .tab { margin-left: 40px; }
-</style>
 </head>
 <body>
 <div id="wrapper">
@@ -73,11 +68,9 @@ window.open(window_src, 'newwindow', config='height=800, width=520, '
 <p><hl>Software Engineer</hl>: Development and management of data pipeline operations for large scale clinical data. Flexible cloud-based architectures for continuous ingestion, processing, refinement and delivery.</p>
 
 <p><b>&#8226; AgriData 2015-2019</b></p> 
-<p><hl>Data Architect / Hardware Engineer</hl>: I designed and implemented a distributed robotic computer vision platform on an embedded GPU system. This was a small company of four f beginning to end (three years). As such, I was able to be involve in every element of the project. On the backend, our machines were provisioned from bare-metal and my responsibilities included writing firmware, interprocess communication, database developement, and linux administration. Together, they required precise TCP/IP networking, bandwith analysis, load balancing, distributed / cloud computation, fleet management, and remote access in uncooperative locales. In the analysis layer, I designed, trained, and maintained deep learning image models (OpenCV / Caffe / CUDA on NVIDIA Jetson TX2) for object detection and segmentation in a visually complex outdoor environment. Data input was approximtely 500GB per second, per machine, and required on-the-spot processing, storage, and eventually analysis.</p>
+<p><hl>Data Architect / Hardware Engineer</hl>: Developing and managing a multi-camera, high-quality, mobile computer vision and processing robotic platform. Hardware, middleware, drivers, sensors, GIS, mapping, digitizing farm entities, linux infrastructure and administration, inter-process communication, IP networking, data pipelining, fleet management in un-cooperative locales. Machine learning on with OpenCV / Caffe / CUDA.</p>
 <p><i>Example:</i> Leaf Segmentation <small><a target="_blank" style="color: #a7c9b6;" href="assets/lettuce.png">[link]</a></small></p>
 <p><i>Example:</i> Fruit Detection <small><a style="color: #a7c9b6;" href="assets/row44-dir1_22005521_13_00.mp4">[link]</a></small></i></p>
-<p class='tab'>
-</p>
 
 <p><b>&#8226; ProductBio / Workpology, Inc., 2015</b></p>
 <p><hl>Data Scientist</hl>: Network analysis of industrial consumer product lifecycles, quantify sustainability from seed to shelf. ETL, data ontologies, graph database design.</p>
