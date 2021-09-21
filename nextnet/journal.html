@@ -1,0 +1,160 @@
+<html>
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-174250691-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-174250691-1');
+</script>
+
+<link rel="stylesheet" type="text/css" href="default.css">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />>
+
+<title>
+Selwyn-Lloyd McPherson, 202
+</title>
+
+<link rel="icon" type="image/png" href="images/favicon.ico">
+
+<script language='Javascript'>
+function openWindow(window_src) {
+window.open(window_src, 'newwindow', config='height=800, width=520, '
+    + 'toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, '
+    + 'directories=no, status=no');
+}
+</script>
+
+</head>
+<body>
+<div id="wrapper">
+
+
+<div class="row">
+  <div class="column left">
+    <h1>Selwyn-Lloyd McPherson</h1>
+  </div>
+  <div class="column right">
+        <br>
+        <a class="addon" href="mailto:selwyn.mcpherson@gmail.com">selwyn.mcpherson@gmail.com</a>
+        <br>
+        <a class="addon" href="https://github.com/mypolopony">https://github.com/mypolopony</a>
+        <br>
+        <a class="addon" href="https://www.linkedin.com/in/selwynlloyd">https://www.linkedin.com/in/selwynlloyd</a>
+
+  </div>
+</div>
+
+
+
+<div class="subh">
+    <a href="#recently" class="subh">recently</a> - <a href="#personal" class="subh">personal</a> - <a href="#education" class="subh">education</a> - <a href="#employment" class="subh">employment</a> - <a href="#research" class="subh">research</a> - <a href="#publications" class="subh">publications</a> - <a href="#skills" class="subh">skills</a> - <a href="#projects" class="subh">projects</a>
+</div>
+
+<h2>19 September 2021</h2>
+<p>
+<b>Layers of networks</b>
+
+As a single example:
+
+For CP450 I want to overlay / visualize / specify the various layers:
+    - genomic layer, with the canonical sequence as the center node and interesting variants as satellite nodes
+        Query: what SNPs (variations) are common for this gene? Edges describe how common they are.
+    - epigenetic layer, which encapsulates what we know about regulatory elements in the genome, their connectivity, and the factors that control them. (Immgen, for example)
+        Query: what chromatin (structural) variants affect my protein of interest? How is my gene affected by splicing? how is transcription regulated (as indicated by )
+    - gene product / protein layer
+        Query: what protein is encoded by FMN1? (Formin 1: polymerization of linear actin cables)
+    - metabolic system / functional layer. Biomolecular Interaction Network Database (BIND) captures protein function, defined at the molecular level as the set of other molecules with which a protein interacts or reacts along with the molecular outcome [KEGG]. It also emcompases the signal transduction network (a graph in a very true sense!) that describes the process of biological action
+        Query: What is BRCA1's involvement in breast cancer? [insert image: BRCA1 Pathway_Abeomics.jpg]. Any person or lab could be working on any of these nodes, very intently, for years. There are also submodules and high-level concepts with further trees, each having great depth (p53 for example has a diagram about 50x this size). Research biologists studying breast cancer care very intently about some portion of these  
+    - gene / disease disease layer, in which nodes link to diseases that are known abnormalities (again SNPs, for example)
+        - BRCA1: breast 
+    - organ system / disease layer. In addition to a specific gene, sometimes there is serious disorder of an entire organ, like the kidney, or the lungs. It is very much connected to disease and of great interest to investigators.  This also includes histopathology findings, which are multi-cell plate/slide images of the morphological (or immunological) manifestations of a disease; for example, Hashimoto's thyroditis is an autoimmune disease in which the thyroid follicles are destroyed by a reaction against components of the thyroid, including peroxisomes (large empty spaces in the cells) and excess thyroglobulin (small dots around the surface of the cells) [hashimotos.jpg]
+        Query: what findings are found in people with Hashimotos's thyroditis (-> which findings are associated based on literature? -> which genes are associated based on literature?)
+        Query: what systems are affected in breast cancer metastasis? [Answer: 'blood and lymphatic vessels']
+        Query: which histopathological findings are relevant for understanding cancer metastasis? [This study demonstrates the feasibility of applying NLP technologies to extract valuable metastases information from pathology reports and we believe that it will greatly benefit studies on cancer metastases that utilize EHRs. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543353/]
+    - experimental layer (i.e. literature), which not only is the basis of most if not all of the previous layers but may even include a reagent layer that itemizes specific reagent products that are important for biologists when designing experiments
+        Query: I'm interested in lung cancer histology, and I know I want to create an experiment that investigates immunology in lung tissue (this is what BenchSci does beautifully -- mostly cell lines, antibodies, and special proteins: 'AI-Assisted Reagent Selection', i.e. search for very specific reagent products, which can be bought directly form suppliers, to reproduce experiments found in literature for a particular area of interest and purpose). Like an Amazon for biological products, based on crawling literature and databases.
+
+Ideally, these layers will connecet to both: 
+    - items of the same layer, so for example: Protein (P1) -> Protein (P2) (via Literature L1 as an edge), wherein L1 is an experiment that has assayed the molecular interaction between P1 and P2
+    - items of other layers, so for example: Protein (P1) ->  Gene (G1) -> Associated Genes (G2) -> Disease (D1) -> Literature (L1) -> Other Diseases (E2), thus connecting a protein to a new disease based on associative properties
+
+How is organizational data used to interact with these layers?
+    - for example (from UWM Palacek Lab): 'which significant genes are related to some finding, like increased lymphatic endothelial cell metabolism, i.e. potential cancer metastasis)'?
+    - usually, the lab performs experiments on targets of interest, generates proprietary data, and analyze those results using either known practices or lab-developed techniques yielding potential genes of interest.
+        - From the -omics repositories on GitHub, it's clear that we already have the very basic analytics of feature extraction, classification, and learning implemented (linear regression, random forests, basic sequential neural networks); that's great, would probably be appreciated by biologists not part of an academic lab (for which these sorts of things are pretty rote), or without the programming acumen to accomplish them.
+    - so how can we:
+        0) aid in traditional learning models for those that aren't expected to program them
+        1) add value to the results being generated by more sophisticated groups that have done these analyses already
+        2) direct future experiments of interest based on those results
+
+
+<b>Obtaining the Network</b>
+Database integration
+    Take http://consensuspathdb.org/ for example, a fantastic example of the multi-layered approach. Most large-scale databaes achieve this; a particluar entity may have a set of identifiers to other databaess. If we can harmoinze these, we can create, for our purposes, a singular database what allows any query to be relevant for the different layers. 
+
+<b>Literature as Glue</b>
+
+- Data -> Results -> Analysis [-> Literature -> New Insights]
+- Ingestion [i.e. literature]
+    Tagging literature; if only we could generate a standardized format for literature, like XML, that is descriptive and machine-readable (other than Abstract > Introduction > Methods > Results > Discussion)
+    Extract entities A, B, C and A, B, C already have existing relationships
+
+</p>
+
+<h2>21 September 2021</h2>
+<p>
+Palacek Lab:
+
+<b>Data</b>
+
+- obvious clustering, PCA -- but what would it mean, and how is it operative? Difficult to know what has been done already, but great opportunity to exercise techniques that haven't been explored, epsecially if it allows us to connect to our knowledge graph, and in fact grow the knowledge graph based on the work that has already been done.
+
+
+<b>General / Lipidomics</b>
+
+Metabolomics and Lipid-omics of Ischemic Stroke 
+
+[Advances in Clinical Chemistry, 08 Mar 2018, 85:31-69 / DOI: 10.1016/bs.acc.2018.02.002 PMID: 29655461]
+
+- to understand pathophysiologic bases of disease states
+- mechanisms underlying ischemic stroke and in search for novel metabolite biomarkers and their related pathways
+    - this leads directly to deep information networks
+
+
+<b>Podocytes, as an example</b>
+
+How can we help (medical / biomolecular understanding):
+
+Directed Differentiation of Human Pluripotent Stem Cells to Podocytes under Defined Conditions
+
+[Tongcheng Qian, Shaenah E Hernday, Xiaoping Bao, William R Olson, Sarah E Panzer, Eric V Shusta, Sean P Palecek]
+PMID: 30808965 PMCID: PMC6391455 DOI: 10.1038/s41598-019-39504-8]
+    
+<i>Abstract:</i>
+    
+A major cause of chronic kidney disease (CKD) is glomerular disease, which can be attributed to a spectrum of podocyte disorders. Podocytes are non-proliferative, terminally differentiated cells. Thus, the limited supply of primary podocytes impedes CKD research. Differentiation of human pluripotent stem cells (hPSCs) into podocytes has the potential to produce podocytes for disease modeling, drug screening, and cell therapies. In the podocyte differentiation process described here, hPSCs are first induced to primitive streak-like cells by activating canonical Wnt signaling. Next, these cells progress to mesoderm precursors, proliferative nephron progenitors, and eventually become mature podocytes by culturing in a serum-free medium. Podocytes generated via this protocol adopt podocyte morphology, express canonical podocyte markers, and exhibit podocyte phenotypes, including albumin uptake and TGF-β1 triggered cell death. This study provides a simple, defined strategy to generate podocytes for in vitro modeling of podocyte development and disease or for cell therapies.
+
+Basically, they’re trying to cheat (inform) the biological system in order to understand the system, and they’re looking for ways to do so with tools that we (NextNet) may be able to create
+
+
+<b>Gene Alterations</b>
+
+Metabolic alterations caused by the mutation and overexpression of the Tmem135 gene
+
+- aging process
+- **imbalanced mitochondrial dynamics** (and what does it mean to be imbalanced, and how can our technology help?)
+
+<b>IMMEDIATAE TODO</b>
+
+From literature, entity relationships are easily extracted. At first, there's no need for complicated NLP or text analysis. All of the important relationships (tuples in the NExTNet text extraction pipeline, which is a good way to handle these connections) can be identified based purely on our understanding (ingestion) of commonly used databases. That is to say, if a paper references both Protein A and Protein B, we already know all of the associations (graph network) between them, including the verb/edge (in a tuple A->isrelatedto->B). 
+
+The TODO is to see, given a set of papers, and a collection of relationships, what can we create based on an entity, X. Those relationships, informed by databases that we have access to, can lead to new insights as we traverse our knowledge graph.
+</p>
+
+</body>
+</html>
