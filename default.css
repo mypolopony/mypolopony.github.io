@@ -60,6 +60,14 @@ p {
 	text-align: justify;
 }
 
+p.tab {
+	font-size: 0.55em;
+	color: #ffeaaa;
+	text-align: justify;
+	margin-left: 40px;
+	font-style: italic;
+}
+
 b {
 	color: #ff110d;;
 }
