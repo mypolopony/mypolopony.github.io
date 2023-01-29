@@ -49,6 +49,15 @@ h1 {
   clear: both;
 }
 
+.skills {
+	color: #00bdea;
+	font-weight: bold;
+}
+
+.green-background {
+    background-color: #2ecc71;
+}
+
 h2 {
 	color: #007eb3;
 }
