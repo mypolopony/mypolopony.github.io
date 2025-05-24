@@ -1,0 +1,747 @@
+[New Cover Letters]
+
+Hi LeoLabs,
+
+I am a statistical modeler and data infrastructure architect looking for a new opportunity with an exciting company. 
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others!
+
+I focus strongly on understanding data flows on a fundamental level and take care to deeply consider the nature of the inputs and outputs with the goal of creating harmonized platforms for high-speed, high-accuracy insights. I've had the pleasure of working with large data sets of all sorts: biological (gene expression and proteomics), time series (electrophysiology and electromagnetic seismology), geospatial (GIS), neuroimaging (fMRI), clinical healthcare (electronic medical records), and optical (embedded computer vision systems). My aim is to resist black box solutions when possible and instead dive into the data with the goal of designing intelligent algorithms and processing streams with context-specific knowledge. Testable, scalable, robust automation is core to the problems I enjoy solving. I'm a big fan of clean code, orchestration (IaC) and rapid integration.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Cleanview,
+
+I am a statistical modeler, data engineer and infrastructure architect looking for a new opportunity with an exciting company. With passion for leveraging technology to address environmental challenges, I believe my skills and experience align well with the Cleanview's objectives.
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others!
+
+In my previous role at Sound Agriculture, I led the development of geospatial data architectures, creating cloud-based solutions to efficiently route, store, and link diverse data streams. This involved harmonizing public and proprietary GIS data sources and implementing automated knowledge discovery platforms. My proficiency with AWS services, Infrastructure as Code (Terraform), and MLOps practices enabled the creation of scalable and robust data infrastructures.
+
+At CloudTrucks, I focused on building machine learning pipelines and developing algorithms for data interfaces within customer-facing applications. I managed resources to control data flow for predictive models, optimization algorithms, IoT, and AI/ML applications. 
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow, Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Ascend Analytics,
+
+I am a statistical modeler and data scientist looking for a new opportunity with an exciting company. I have a strong interest in your goal of grid optimization and the application of rigorous software to meaningful climate and energy problems. 
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others!
+
+I focus strongly on understanding data flows on a fundamental level and take care to deeply consider the nature of the inputs and outputs with the goal of creating harmonized platforms for high-speed, high-accuracy insights. While my path has included hardware, neuroimaging, and agricultural sensing systems, the thread throughout has been clear: building clean, testable pipelines for forecasting and decision support. I’ve worked across time series, simulation-based modeling, and event-driven microservices and I’d be eager to bring that breadth to Ascend’s market optimization and forecasting work. My aim is to resist black box solutions when possible and instead dive into the data with the goal of designing intelligent algorithms and processing streams with context-specific knowledge. Testable, scalable, robust automation is core to the problems I enjoy solving.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow, Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Aclima,
+
+I am a statistical modeler and data infrastructure architect looking for a new opportunity with an exciting company. With over a decade of experience designing cloud-native data platforms, combined with a lifelong passion for environmental systems, I see Aclima’s mission as the perfect convergence of technical rigor and meaningful impact.
+
+Throughout my career, I’ve architected systems that collect, harmonize, and analyze data from distributed sources—across geospatial, biological, clinical, and sensor-driven domains. At Sound Agriculture, I led data architecture efforts for field-scale agronomic and atmospheric data platforms, implementing scalable pipelines in AWS for fusing proprietary and public datasets into unified knowledge systems. My work emphasized not just performance, but traceability, harmonization, and scientific context—all of which feel deeply aligned with Aclima’s approach to environmental intelligence.
+
+I’ve built and optimized distributed compute systems using tools like PySpark, Airflow, Kafka, and MLflow, and deployed them via Terraform-managed infrastructure across AWS (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda) and GCP. My expertise in Python and SQL is grounded in practical, production-level use cases: ingesting complex geospatial sensor data, performing time-series transformations, and managing long-term storage strategies across structured and semi-structured data ecosystems. I also bring experience with container orchestration (Docker), and pipeline observability (Grafana, InfluxDB) at scale.
+
+What excites me most about Aclima is your commitment to local, high-resolution environmental data as a driver of accountability and justice. I’ve always gravitated toward dynamic systems that reflect the complexity of the living world. Aclima’s blend of sensors, software, and science feels like an ideal next step for me: intellectually challenging, socially urgent, and grounded in both mission and metrics.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hello NextEra,
+
+I'm a data architect and data infrastructure engineer looking for a new opportunity with an exciting company. With a background in architecting cloud-native data platforms, building robust ETL systems, and supporting decision-making through analytics infrastructure, I bring both technical depth and a strong collaborative spirit. I have a passion for combining computation with dynamical systems that dominate clean energy and environmental systems. 
+
+At Sound Agriculture, I co-designed a geospatial data platform for precision agronomy, integrating sensor networks, public data streams, and proprietary datasets to support real-time decision tools. I developed scalable ETL pipelines using Python, Terraform, and AWS Glue/Lambda, with a strong emphasis on data quality, validation, and long-term system resilience. These systems supported teams across data science, product, and regulatory domains—exactly the kind of cross-functional context I thrive in.
+
+I bring hands-on experience with a wide range of cloud infrastructure (AWS S3, Redshift, Aurora, CloudWatch, ECS), DevOps tooling (GitHub Actions, Docker, Terraform), and orchestration frameworks (Airflow). My work frequently intersects with analytics teams, supporting machine learning pipelines and exploratory workflows in environments where accuracy and interpretability matter, whether it be logistics optimization at CloudTrucks or clinical analytics at CancerLinq.
+
+Your emphasis on data governance, compliance, and risk resonates with my approach to engineering. I have supported environments that demand reliability and auditability, using strong CI/CD practices, cataloging standards, and API design with stakeholder visibility in mind. As I often find myself a part of hyper-focused, fast-paced teams, I also appreciate your embrace of Scrum and documentation-first culture, as I believe technical clarity is key to scale.
+
+Above all, I’m passionate about building systems that bridge complexity and clarity, where data becomes an asset that empowers both innovation and accountability. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi May Mobility,
+
+I'm a scientific modeler and data infrastructure engineer looking for a new opportunity with an exciting company. With over a decade of experience in data science and engineering, including building scalable predictive models, optimizing data pipelines, and deriving actionable insights from complex datasets, I excited by the opportunity to create greener, more accessible cities.
+
+In my previous roles, most notably at CloudTrucks and Sound Agriculture, I designed and implemented data pipelines and advanced machine learning models that supported real-time decision-making and operational efficiency. At AgriData, I was the first hire and led the development of a semi-autonomous computer vision platform for plant health analysis in vineyards and row crops. I architected the full system on an NVIDIA Jetson TX2, writing low-level firmware, integrating LIDAR/GPS/IMU for sensor fusion, and managing networking, inter-process communication, and fleet-wide deployments. My work spanned from deep learning model development (OpenCV, Caffe, TensorFlow) to designing scalable cloud infrastructure (AWS and Azure) for data processing and distributed training. Much like autonomous vehicle platforms, our solution required real-time perception in complex outdoor environments—balancing inference speed, reliability, and spatial accuracy in dynamic terrain.
+
+I also have a strong background in spatial and temporal data analysis, which I have leveraged to create platforms that improve resource allocation and environmental outcomes. These experiences have honed my ability to work with large, multifaceted datasets and to translate complex quantitative insights into strategic actions. While my path has included hardware, neuroimaging, and agricultural sensing systems, the thread throughout has been clear: building clean, testable pipelines for forecasting and decision support in supprt of dynamic systems essential to life. 
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with PyTorch/Scikit-Learn for MLOps; Airflow, Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. I also always make education a priority, holding office hours and mentoring junior data scientists to foster a culture of continuous learning and innovation.
+
+I adore experiencing urban, sustainable innovation here in San Francisco and around the world and would look forward to being a part of beautiful, data-driven solutions!
+
+Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Selwyn-Lloyd
+
+
+Hi Afresh,
+
+I'm data infrastructure architect and backend engineer looking for a new opportunity with an exciting company. With a career anchored in sustainable technology, from supply chains to agricultural infrastructure, I see Afresh as a great opportunity to meaningfully contribute the mission of eliminating food waste through exceptional software.
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL and machine learning pipelines, and manage ecosystems of microservices, among others!
+
+Earlier in my career at ProductBio, I helped build platforms to model the full lifecycle and environmental impacts of consumer goods using graph databases, working closely with data from procurement systems and sustainability reports. That experience gave me a lasting appreciation for how complex and invisible supply chains shape climate outcomes, and how the right data, surfaced at the right moment, can enable better decisions at scale.
+
+Since then, I’ve developed intelligent, scalable systems across multiple industries. At CloudTrucks, I helped engineer a machine learning platform for real-time fleet optimization. At Sound Agriculture, I built data pipelines and APIs to power geospatial agronomy tools, enabling precision decisions in regenerative agriculture. At AgriData, I led the development of a semi-autonomous computer vision platform incorporating deep learning model development, and deployed ML models using PyTorch, scikit-learn, and TensorFlow, along with MLOps tools like MLflow and Airflow, optimizing inference systems for both cloud and edge environments.
+
+These systems demanded robust backend engineering, real-time data workflows, and a deep understanding of modeling at scale. Other elements of my stacks generally include some combination of C++/Python/R; Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. But I'm always learning new platforms and tools!
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. I believe in technlogy as a force for climate resilience! 
+
+Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi First Street,
+
+I'm statistical modeler, data infrastructure architect and GIS engineer looking for a new opportunity with an exciting company. I was inspired by your commitment to translating physical climate risk into actionable intelligence, and excited by the opportunity to contribute.
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL and machine learning pipelines, and manage ecosystems of microservices, among others!
+
+At Sound Agriculture, I built and maintained the data architecture for our geospatial product suite, integrating public and proprietary sources to power agronomic decision-making at field scale. Using raster/shape file manipulation tools (GDAL, Shapely) to harmonize datasets across temporal and geographic domains, I created a powerful platform for layering satellite data for use in machine learning pipelines. 
+
+I’ve also worked in machine learning pipelines for real-time computer vision / robotics (AgriData), clinical modeling (CancerLinq), and fleet optimization (CloudTrucks), though geospatial systems are where my skills and passions converge. I have experience across cloud platforms (AWS, GCP), containerized workflows, Python-heavy pipelines (with NumPy, pandas, and xarray), and mathematical model validation using both open-source and in-house frameworks. I also maintain strong version control and documentation hygiene—because data reliability and auditability are non-negotiable in science-forward work. My aim is to resist black box solutions when possible and instead dive into the data with the goal of designing intelligent algorithms and processing streams with context-specific knowledge. Testable, scalable, robust automation is core to the problems I enjoy solving. I'm a big fan of clean code, orchestration (IaC) and rapid integration.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with PyTorch/Scikit-Learn for MLOps; Airflow, Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi Shipt,
+
+I’m writing to express my interest in the Senior Data Scientist position at Shipt. With a background in applied machine learning, logistics intelligence, and cloud-based ML systems, I’m excited by the opportunity to contribute to a data-driven platform that helps people move through their daily lives more efficiently and reliably.
+
+At CloudTrucks, I helped build machine learning infrastructure and predictive modeling systems to support real-time fleet tracking and route optimization. We ingested high-frequency telematics and behavioral data, implemented pipelines using Kafka, Airflow, and GCP, and deployed models that forecast driver availability, trip duration, and asset utilization at national scale. Working across engineering, data science, and operations, I contributed to tools that helped drivers and dispatchers make better decisions with low-latency, personalized insights.
+
+My aim is to resist black box solutions when possible and instead dive into the data with the goal of designing intelligent algorithms and processing streams with context-specific knowledge. Testable, scalable, robust automation is core to the problems I enjoy solving. I'm a big fan of clean code, solid documentation and rapid development. 
+
+My typical stacks usually include some combination of C++/Python/R; Pandas/Scikit-Learn for data exploration; MLflow and ZenML with PyTorch/HuggingFace/TensorFlow for MLOps; Airflow, Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi Fastly,
+
+I am a statistical modeler and data scientist looking for a new opportunity with an exciting company. 
+
+I've worn many hats in my previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others!
+
+With a background in applied machine learning and MLOps infrastructure, I’ve delivered end-to-end solutions in production environments where scale, latency, and traceability were paramount. 
+
+At CloudTrucks, I developed predictive models to support real-time fleet tracking and behavioral forecasting—deploying pipelines with Airflow, Kafka, and GCP, and using PyTorch and scikit-learn to optimize for performance and interpretability. At Sound Agriculture, I managed geospatial inference pipelines for agronomic modeling, integrating structured and raster data into custom time-series forecasting tools.
+
+In other recent projects, I’ve prototyped LLM-powered ML systems in Hugging Face, deployed containerized model APIs, and contributed to team-level MLOps strategies around reproducibility, validation, and observability. In addition to development, I have also mentored junior data scientists and engineers, fostering a culture of continuous learning and best practices. 
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Terraform for infrastructure; Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Prealize Health,
+
+I am a computational biologist, statistical modeler, and data infrastructure engineer looking for a new opportunity with an exciting company. With a career bridging machine learning, clinical informatics, and patient-facing care, I bring a multidisciplinary approach to building healthcare systems that are not only intelligent, but genuinely useful. Your mission to shift the healthcare experience toward earlier, more personalized insights aligns perfectly with my longstanding passion for better medicine through data.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others! 
+
+In research, I’ve published on gene expression, proteomics, and cancer biostatistics, and spent years working in neuroimaging to understand complex psychiatric conditions. In the clinical domain, I’ve directly assessed patients in psychiatric settings and completed three formative years of medical school at Mount Sinai, experiences that have shaped how I approach modeling and interpretation with empathy and clinical nuance. 
+
+For the past fifteen years, I’ve been immersed in data engineering and applied modeling across a wide spectrum of domains, from clinical informatics and cancer biostatistics to robotics, geospatial systems, and logistics. 
+
+At CancerLinq, I helped scale a national oncology platform, engineering ML pipelines to extract clinical trajectories and build predictive models from real-world patient data. 
+
+At Sound Agriculture, I architected a geospatial data platform to power predictive analytics at the intersection of agriculture and sustainability. I designed cloud-native ingestion and harmonization pipelines for spatial data layers ranging from satellite imagery to soil health to climate data, optimizing compute infrastructure for large-scale modeling workflows.
+
+At AgriData, I was the first hire and led the development of a semi-autonomous field-deployable computer vision platform for precision crop assessment. I built ML models and deployed a fully containerized pipeline for processing and storing inference results from a fleet of GPU-equipped edge devices.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow, Terraform and Docker for orchestration; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; distributed MongoDB for NoSQL. 
+
+I am excited to return to healthcare to develop clinically aligned predictive systems. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Energy Solutions,
+
+I'm statistical modeler and data infrastructure engineer looking for a new opportunity with an exciting company. With over fifteen years of hands-on experience across several diverse industries (agriculture, environmental science, healthcare, robotics, and logistics), I'm drawn to Energy Solutions' mission of delivering large-scale climate impact through smart, integrated data systems. 
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, built ETL pipelines, and manage ecosystems of microservices, among others! 
+
+I focus strongly on understanding data flows on a fundamental level and take care to deeply consider the nature of the inputs and outputs with the goal of creating harmonized platforms for high-speed, high-accuracy insights. I've had the pleasure of working with large data sets of all sorts: biological (gene expression and proteomics), time series (neuronal electrophysiology and electromagnetic seismology), geospatial (GIS), neuroimaging (fMRI), clinical (electronic medical records), and optical (computer vision). My aim is to resist turn-key, black box solutions when possible and instead dive into the data with the goal of designing intelligent algorithms and processing streams with context-specific knowledge.
+
+At Sound Agriculture, I built data pipelines and APIs to power geospatial agronomy tools, enabling precision decisions in regenerative agriculture. At CloudTrucks, I helped engineer a machine learning platform for real-time fleet optimization. At AgriData, I led the development of a semi-autonomous computer vision platform incorporating deep learning model development, and deployed ML models to optimize inference systems for both cloud and edge environments.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+
+
+Hi Quatt,
+
+I'm a data engineer and statistical modeler looking for a new opportunity with an exciting company. With over a decade of experience in building scalable, real-time data infrastructure, and a personal commitment to climate solutions, I’m excited by your mission to accelerate our energy transition through accessible, intelligent home systems.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+At AgriData, I led the development of a sensor-fusion driven data platform to support mobile computer vision systems for precision agriculture. We ingested high-volume IoT data in real time from GPUs deployed in the field. I architected the full system on an NVIDIA Jetson TX2, writing low-level firmware, integrating LIDAR/GPS/IMU data for spatial awareness, and managing networking, inter-process communication, and fleet-wide deployments. My work spanned from deep learning model development (OpenCV, Caffe, TensorFlow) to designing scalable cloud infrastructure for data processing and distributed training. That work taught me the nuances of streaming ingestion, hardware variability, and pipeline resilience—lessons directly applicable to your work with dynamic building data.
+
+At Sound Agriculture, I architected ingestion and transformation pipelines for geospatial and environmental datasets, integrating public and proprietary data layers (climate, soil, imagery) to support analytics and ML. These systems relied on cloud-native tools like Glue, Athena, and Redshift, and were designed for long-term performance, scalability, and transparency -- exactly what’s needed when your systems underpin real-world operational decisions.
+
+I’ve also contributed to healthcare and logistics platforms, where data governance, traceability, and low-latency access are paramount. I enjoy working cross-functionally with product teams and analysts, and I value documentation and self-service access as essential parts of a healthy data culture. Testable, scalable, robust automation is core to the problems I enjoy solving. I'm a big fan of clean code, orchestration (IaC) and rapid integration.
+
+I'm also a tinkerer, having set up a home-grown sensor and monitoring system to solve energy-use issues in my own apartment! 
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Redwood Materials,
+
+I'm a machine learning and data engineer looking for a new opportunity with an exciting company. With a background in real-time computer vision, embedded systems, and machine learning for robotics, and a personal commitment to climate solutions, I'm drawn to Redwood's mission to automate sustainability.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+At AgriData, I led the development of a real-time, GPU-accelerated computer vision platform for precision agriculture. I architected the full sensor stack on the NVIDIA Jetson TX2 (with CUDA), writing firmware for data ingestion, synchronizing LIDAR, GPS, and IMU streams, and building classification and segmentation models using OpenCV, Caffe, and TensorFlow. These models ran on-device in field conditions, supporting autonomous row detection and plant health diagnostics. My work spanned from cloud-based ML development to fleet deployment and high-throughput image analysis pipelines, experience that maps directly to Redwood’s needs in intelligent sorting and edge inference.
+
+Beyond agriculture, I’ve built ML pipelines for geospatial, logistics, and clinical platforms, handling diverse sensor data and pushing models into production environments with demanding latency, power, and robustness constraints. I’m comfortable working across the stack, from image pre-processing and model training to embedded deployment and post-hoc analysis. My engineering philosophy emphasizes clarity, testability, and performance tuning to match real-world throughput and industrial requirements.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Watershed,
+
+I'm a data engineer looking for a new opportunity with an exciting company. For over a decade, I've built and maintained infrastructure that enables others to ship fast, experiment safely, and scale with confidence. I'm attracted to mission-and-data driven organizations, particularly in the sustainability field. 
+
+Across roles in climate, healthcare, and logistics, I’ve owned tooling, release systems, IaC infrastructure, and CI/CD strategy. I’ve deployed ML pipelines with Terraform and Airflow, built scalable internal services atop AWS and GCP, and helped design observability systems that balance developer ergonomics with production insight. I take particular pride in creating infrastructure that is approachable, self-documenting, and robust. I aim for systems where developers feel empowered and operations remain transparent.
+
+At Sound Agriculture, I helped design and orchestrate data infrastructure for large-scale geospatial pipelines across distributed environments, with strong emphasis on repeatable builds, versioning, and real-time observability. At CloudTrucks, I collaborated with ML, frontend, and product teams to align infrastructure changes with user value, integrating internal release tooling and managing workflow orchestration to support core driver-facing analytics. At AgriData, I architectured a full development stack combining computer vision, sensor fusion, and cloud-based processing. 
+
+I aim to build a more sustainable world through intelligent systems. I’ve worked on platforms that enable better decision-making about soil, supply chains, and energy, and I’d be honored to help power Watershed's efforts.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Arable,
+
+I'm a data engineer looking for a new opportunity with an exciting company. Your mission, combining high-fidelity field data with cutting-edge models to drive agricultural resilience, deeply aligns with my own path. I’ve spent the past decade building machine learning systems around messy, real-world sensor streams, and I'm eager to bring that experience to a company working at the heart of the global food and climate challenge.
+
+At AgriData, I led the development of a computer vision and sensor fusion platform for precision agriculture. I architected the entire edge-to-cloud pipeline, designing hardware integrations (LIDAR, GPS, IMU), building computer vision models for plant health, and scaling out inference across a live fleet. I built both the model infrastructure and the physical systems from the ground up, experience that taught me how to move fast while validating rigorously in agricultural conditions.
+
+At Sound Agriculture, I built predictive pipelines for water and nutrient management using a combination of satellite imagery, weather forecasts, soil maps, and in-field observations. I designed and deployed end-to-end ML systems leveraging commercial and in-house Python libraries, Airflow, SageMaker, and Flask APIs that translated raw geospatial and temporal data into field-level irrigation and nutrient recommendations. Much of this work paralleled the kinds water balance modeling described in your posting, with a strong focus on uncertainty quantification, explainability, and real-world fit.
+
+I bring not only hands-on technical depth—particularly in time-series modeling, sensor validation, and field-calibrated predictions but also the startup experience to take projects from prototype to production, even when the data isn’t perfect and deadlines are tight. I love the challenge of balancing scientific complexity with production-grade software. For the past fifteen years, I've been immersed in data engineering and applied modeling across a wide spectrum of domains, from clinical informatics and cancer biostatistics to robotics, geospatial systems, and logistics, but I find myself always drawn to sustainability and taking care of Mother Earth.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+
+Hi TailorCare,
+
+I am a computational biologist, statistical modeler, and data infrastructure engineer looking for a new opportunity with an exciting company. With a career bridging machine learning, clinical informatics, and patient-facing care, I bring a multidisciplinary approach to building healthcare systems that are not only intelligent, but genuinely useful. Helping patients navigate their treatment journey with clarity and confidence is exactly the kind of high-impact work I want to be part of.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+At CancerLinq, I worked at the intersection of data science and clinical informatics to help oncologists deliver better care through large-scale EMR integration. I led efforts to extract structured and unstructured patient trajectories, implemented predictive models to stratify risk, and collaborated with clinicians to ensure interpretability and clinical validity. This work required a deep understanding of clinical workflows, privacy, causal reasoning, and the human context behind the data.
+
+Since then, I’ve designed ML infrastructure and led modeling teams in logistics, agtech, and geospatial engineering. I’ve developed pipelines and prediction APIs using PySpark, MLflow, and Airflow, and deployed models via batch scoring and live inference systems. My stack typically includes Python/C++, scikit-learn, PyTorch, SQL, and the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda). Testable, scalable, robust automation is core to the problems I enjoy solving and I care prioritize clarity, traceability, and matching the technical approach to the clinical question.
+
+I'm interested in real, day-to-day decisions made by providers and patients. Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Muon Team,
+
+I'm a data engineer looking for a new opportunity with an exciting company. With over a decade of experience building scalable, cloud-native infrastructure for high throughput systems, including distributed analytics platforms, ML pipelines, and sensor data processing, I’m drawn to the opportunity to design mission critical services that bridge the physical and digital layers of Earth observation.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+I specialize in infrastructure where correctness, observability, and uptime matter. I've architected containerized Python services with FastAPI and Flask, managed deployment pipelines with Terraform and Docker, and built streaming systems using Kafka, Redis, and pub/sub backplanes for real-time event ingestion. I enjoy working across layers, including continuous deployment,, endpoint logic, and inter-service communicationm, always optimizing for robustness and clarity.
+
+At AgriData, I built a tightly integrated edge-to-cloud system for field-deployed robotics, combining computer vision, GPS, LIDAR, and IMU sensor data. This included designing a remote fleet API, managing firmware deployment, and scaling ingestion pipelines to handle high-frequency telemetry. At Sound Agriculture, I helped scale our cloud-based analytics stack for geospatial forecasting, using AWS-native tools (ECS, EC2, SageMaker, Glue, DynamoDB, Lambda) to support both batch and real-time data workflows layering satellite imagery with proprietary client data.
+
+I've always been drawn sensing, infrastructure, and the boundary between science and software. I'm particularly interested in aerospace (5x Space Camp / 2x Aviation Challenge nerd), data streams, and hard real-world problems.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Cheers,
+Selwyn-Lloyd
+
+
+Hi Serve Robotics,
+
+I'm a machine learning and data engineer looking for a new opportunity with an exciting company. With a strong background in ML systems engineering, computer vision pipelines, and fleet scale edge computing, I’m drawn to Serve's mission to make robotic deliveries efficient, responsive, and city friendly. 
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+At AgriData, I built a sensor fusion and computer vision platform for mobile agricultural robots and was involved in designing the entire stack, from Jetson TX2 firmware, CUDA atomics, and embedded inference to cloud based ingestion pipelines and model orchestration. Our system captured and processed high frequency RGB, LIDAR, IMU, and GPS data for live CV tasks like geolocation and plant health analysis. I managed annotation workflows and led model refinement cycles using TensorFlow, OpenCV, and Caffe, with an emphasis on continuous tuning, targeted sampling, and gradient analysis from field telemetry.
+
+Since then, I’ve designed ML infrastructure and led modeling teams in logistics, agtech, and geospatial engineering. My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Redshift, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+I take pride in building infrastructure that supports fast iteration, real-world validation, and clean APIs. Testable, scalable, robust automation is core to the problems I enjoy solving and I care prioritize clarity and traceability. Serve's work sits right at the intersection of robotics, CV, and intelligent operations, exactly the kind of systems I’ve built and want to keep building.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Best,
+Selwyn-Lloyd
+
+
+Hi Comity Team,
+
+I'm a mathematical modeler and data engineer looking for a new opportunity with an exciting company. I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+My work has consistently bridged the gap between statistical inference and production grade software. With a background in modeling, dynamic systems, and real time infrastructure, I'm drawn to opportunities to blend data science, optimization, and principled engineering. At Sound Agriculture, I led the development of large-scale modeling infrastructure for dynamic soil and crop systems, building out pipelines in Python, Airflow, and AWS to support time series prediction and counterfactual modeling. At CloudTrucks, I integrated forecast-driven optimization with operations tooling, working across data APIs, relational stores, and internal dashboards to translate simulation and risk models into actionable decisions for a moving fleet. 
+
+More broadly, I’m experienced with relational databases, cloud native data engineering, and research-facing infrastructure. I’ve deployed containerized APIs and batch workflows that serve both analysts and automation, and I care deeply about reliability, traceability, and scientific rigor in the systems we build. I aim to create flexible, trustworthy foundations for downstream decision making.
+
+Comity's vision of autonomous, efficient, and resilient energy systems resonates with me not just technically, but philosophically. Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All tbe best,
+Selwyn-Lloyd
+
+
+Hi Arevon Team,
+
+I'm a software and data engineer looking for a new opportunity with an exciting company. My background includes over a decade of work in data infrastructure, predictive modeling, and cloud native systems, most recently in the field of sustainability. I’m excited by Arevon's mission to revamp the energy landscape and would bring a strong mix of engineering precision and domain familiarity to the role.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+At Sound Agriculture, I led development of scalable ETL pipelines integrating field-level IoT, geospatial, and public climate datasets. We used Airflow, AWS Glue, and PostgreSQL/Redshift to support ML workflows for yield modeling and water forecasting. I also worked closely with product and analytics teams to ensure data quality, visibility, and downstream access.
+
+At CloudTrucks, I designed systems for near-real-time tracking and behavioral prediction across a national logistics fleet—building APIs with Flask and deploying containerized pipelines using Terraform, Lambda, and SageMaker. That work required close coordination with ML teams to monitor models in production and develop feedback loops for retraining.
+
+I take pride in building infrastructure that supports fast iteration, real world validation, and clean APIs. Testable, scalable, robust automation is core to the problems I enjoy solving and I care prioritize clarity and traceability. I'm comfortable with both low-level debugging and high-level architecture; and motivated by the complexity of real world systems, especially ones that support decarbonization, storage optimization, and market stability.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All tbe best,
+Selwyn-Lloyd
+
+
+
+Hi PathAI Team,
+
+I'm a computational biologist and data engineer looking for a new opportunity with an exciting company. I bring more than fifteen years of experience in machine learning infrastructure, distributed systems, and scientific computing; my background in bioinformatics and medical research that makes PathAI’s mission especially compelling. I’ve worked across clinical and scientific domains, and I’m eager to contribute to tools that improve diagnostic accuracy and care delivery at scale.
+
+At Sound Agriculture, I helped architect a platform for real-time modeling and inference using environmental sensor and satellite data. We deployed models via Airflow, SageMaker, and containerized microservices on ECS and Lambda, integrating continuous training and monitoring workflows. At CloudTrucks, I led MLOps efforts for a fleet-scale risk modeling system, optimizing inference pipelines, managing rollout versioning, and implementing distributed observability through Datadog and Prometheus.
+
+Earlier in my career, I worked on healthcare-specific pipelines: building EMR ingestion and harmonization systems for thousands of clinics; modeling treatment resistance in cancer using gene expression and proteomics data; and contributing to academic research in neuroimaging and biostatistics. I also spent time in medical school and in clinical psychiatric settings, which gave me an inside view of how deeply our tools shape decisions and outcomes.
+
+I’m fluent in Python, Terraform, Kubernetes, Flask, Airflow, and MLflow, and comfortable deploying and monitoring models across hybrid cloud/on-prem environments. I enjoy designing reproducible systems, reducing friction for researchers, and helping translate experiments into working production code reliably, observably, and at scale.
+
+PathAI’s work represents exactly the kind of impact I want to support. I’d be glad to bring my experience to your platform and contribute to advancing clinical-grade AI tools.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Fullscript Team,
+
+I'm a computational biologist and data engineer looking for a new opportunity with an exciting company. With over a decade of experience building health-focused data systems, from statistical modeling and experiment design to EMR ingestion and ML deployment, I’m excited by your vision for a more connected, proactive approach to care. 
+
+Fullscript’s emphasis on evidence-based care and practitioner-centered tooling resonates deeply with my own path. I began my career in healthcare, spending several years in patient assessment roles and later completing three years of medical school before shifting my focus to computational biology and data engineering. That clinical experience has never left me, it continues to inform how I design models, think about impact, and work across disciplines.
+
+My background spans academic research, clinical data, and large-scale infrastructure. I’ve published work in neuroimaging, cancer biostatistics, and gene expression, and I’ve developed and maintained real-world data pipelines harmonizing medical records across thousands of hospitals. At Sound Agriculture, I built statistical models to forecast biological outcomes under environmental stress. At CloudTrucks, I led experimentation frameworks and deployed real-time predictive models for behavioral risk—defining metrics, designing tests, and delivering insights directly to product stakeholders.
+
+My toolbox includes Python, R, SQL, and frameworks like scikit-learn, XGBoost, and MLflow. I’m fluent in causal inference, supervised and unsupervised learning, and A/B test design at scale. I enjoy working across teams—especially where communication, clarity, and iteration matter—and I've mentored data scientists and analysts to help them scale both their code and their thinking.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Rappel Team,
+
+I'm a mathematical modeler and data engineer looking for a new opportunity with an exciting company. I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! 
+
+My background spans a decade of applied data science in systems biology, logistics, and climate tech, with a strong focus on statistical modeling, real-time inference, and high-performance Python code. I’m excited by your focus on model transparency and scaled decarbonization, and I'd be thrilled to help develop and grow your CO2-AIM platform.
+
+At Sound Agriculture, I designed and maintained environmental forecasting models that integrated public and proprietary climate data to optimize sustainable agricultural decisions. This involved robust anomaly detection, predictive modeling, and clustering methods across large spatial-temporal datasets. I implemented pipeline automation and data cleaning routines using Python, Airflow, and AWS Glue, ensuring outputs remained stable under rapidly changing upstream data conditions.
+
+Before that, I built and operated sensor-driven infrastructure at AgriData, where I developed machine learning workflows for mobile field-deployed GPU systems and reconciled multi-modal data (LIDAR, GPS, computer vision). I also contributed to modeling and platform design at CloudTrucks, building inference systems that translated raw behavior and telematics into decision support layers for dispatch and planning. Across all these projects, I’ve balanced deep model work with cross-functional, collaborative technical outcomes with real world decisions.
+
+My earlier work in healthcare and computational biology included research in gene expression, neuroimaging, and cancer outcomes. That training gave me a foundation in rigorous statistical validation, scientific transparency, and working across data types with highly varied quality and provenance, all of which translate naturally to carbon modeling challenges.
+
+Rappel's mission, to deliver scalable, credible decarbonization solutions grounded in code and clarity, speaks to the heart of what I do best. I've spent my career building intelligent systems that help people make better decisions, and I’ve long seen sustainability not just as a professional interest, but as a personal ethic. I believe that rigorous data and compassionate design are critical to real climate impact, and I’d be excited to bring that mindset to your team.
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Prologis team,
+
+I'm a data scientist and engineer with over a decade of experience delivering machine learning, statistical modeling, and data infrastructure solutions across healthcare, logistics, sustainability, and agtech. I'm enthusiastic about data-driven strategies for global operations and sustainability initiatives.
+
+My work has spanned predictive modeling, anomaly detection, fleet analytics, and real-time data engineering. At CloudTrucks, I built systems to detect operational anomalies in real-time freight telemetry; at ProductBio, I developed graph-based models to trace environmental impacts across supply chains; and at Sound Agriculture, I built large-scale geospatial pipelines for agricultural data modeling and predictive insights.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Redshift, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Your commitment to innovation, operational excellence, and sustainability aligns deeply with my background and goals. I'd love to bring my skills to your team and contribute to impactful solutions
+
+Generally, I like working with empathetic folks, both engineers and non-engineers alike, that have personal depth, unique insights and different approaches. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Diamond Foundry team,
+
+I'm a data engineer and scientist with over a decade of experience building real-time data pipelines, cloud infrastructure, and scalable systems across manufacturing, logistics, agtech, and healthcare. I’m passionate about designing resilient, efficient platforms that drive decision-making at the cutting edge of sustainability and material science.
+
+I've worn many hats in previous positions: I design APIs and databases, manage cloud resources for large data processing, generate predictive models, write core libraries, build ETL pipelines, and manage ecosystems of microservices, among others! I've led projects across sensor-driven environments, such as optimizing agricultural yield prediction at Sound Agriculture and developing anomaly detection pipelines from freight telemetry at CloudTrucks. Across these roles, I designed and deployed robust cloud-native architectures using Python, SQL, and modern orchestration tools, with an emphasis on real-time ingestion, reliability, and performance.
+
+My typical stack usually includes Python, SQL, and C++, with Airflow and Docker for orchestration, Terraform for infrastructure management, and AWS services like ECS, EC2, SageMaker, Glue, Redshift, and DynamoDB. While I have experience working with monitoring and visualization tools like Grafana and Tableau, my primary focus has been building resilient, high-quality data foundations and real-time processing systems that drive actionable insights for engineering and scientific teams. Testable, scalable, robust automation is core to the problems I enjoy solving. I'm a big fan of clean code, orchestration (IaC) and rapid integration.
+
+Your commitment to zero-emission innovation deeply resonates with my own passion for sustainability and science-driven engineering. I’d be excited to contribute my skills in scalable data systems to help power your next phase of growth.
+
+I enjoy working with empathetic, driven teams across engineering, operations, and leadership. I value clear communication, ownership, and humility. Feel free to check out my resume or portfolio at https://mypolopony.github.io — I’d love the opportunity to chat more.
+
+Best,
+Selwyn-Lloyd
+
+
+Hi Overstory team,
+
+I'm a statistical modeler, data infrastructure architect and GIS engineer looking for a new opportunity with an exciting company. I bring to the table deep experience delivering geospatial solutions for real world, climate-driven problems. Having spent years building large-scale agricultural data pipelines at Sound Agriculture and developing sensor-driven mapping platforms at AgriData, I'm excited by your mission to protect communities and infrastructure through vegetation intelligence.
+
+At Sound Agriculture, I architected ingestion pipelines for large raster and vector datasets (satellite imagery, hydrology layers, soil maps) and developed machine learning models to support predictive insights. At AgriData, I helped digitize farms, integrating IMU, GPS, and LiDAR sensors into dynamic field maps for growers. Across these roles, I worked closely with technical and non-technical stakeholders to deliver actionable data products, adapting both our tooling and our communication to the end user's needs.
+
+I've also worked in machine learning pipelines for real-time computer vision / robotics, clinical modeling, and fleet optimization. I’ve worn many hats across roles: designing APIs and databases, managing large cloud deployments, writing predictive models, and building real-time ETL and microservice ecosystems, among others! 
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Redshift, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+Your vision of combining AI, satellite analysis, and practical delivery resonates strongly with my own passion for turning environmental data into tangible resilience. I would love to bring my experience to your team and help scale solutions that truly matter.
+
+I like working with empathetic folks, both engineers and non-engineers alike, who have personal depth, unique insights and different approaches. I’m excited to contribute to Overstory's mission of building a more resilient world. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+
+Hi Inovalon team,
+
+I'm a data scientist and systems modeler with a deep foundation in healthcare analytics and clinical research, looking for a new opportunity with a mission-driven company. I have over a decade of experience building scalable data solutions across healthcare, sustainability, and logistics--but my roots are firmly in the medical field, and I'm passionate about advancing outcomes through better data infrastructure and modeling.
+
+I've contributed to published research in neuroimaging, gene expression analysis, and cancer biostatistics. My work involved integrating disparate clinical datasets (electronic medical records, imaging series, behavioral assessments) to model dynamic biological systems and predict patient outcomes. This experience instilled in me a careful, interdisciplinary approach to healthcare data: respect for its complexity, and focus on delivering actionable insights.
+
+Since then, I've architected ETL pipelines for healthcare analytics platforms (e.g., CancerLinq), optimized clinical data workflows for research networks, and designed real-time data processing systems for sustainability and logistics startups. I'm equally comfortable developing statistical models in Python/R, optimizing SQL-based data extraction at scale, and collaborating directly with researchers, clinicians, and stakeholders to translate technical outputs into strategic decisions.
+
+Your focus on leveraging healthcare data to drive operational and clinical improvement resonates deeply with me. I would love to bring my experience to Inovalon's Health Data Science team, helping to bridge messy real-world datasets into powerful, meaningful solutions.
+
+I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi Two Dots,
+
+I'm a data engineer and statistical modeler with over a decade of experience modernizing pipelines, building data ecosystems, and enabling machine learning workflows across healthcare, logistics, and sustainability. I specialize in transforming fragmented data systems into durable, production-ready platforms that unlock real time analytics, operational improvements, and scalable growth.
+
+At Sound Agriculture, I helped design cloud-native pipelines to ingest and harmonize large raster and vector datasets (satellite imagery, soil maps, hydrology layers), supporting analytics and predictive modeling at farm scale. At CloudTrucks, I collaborated on streamlining freight telemetry ingestion and anomaly detection pipelines, improving speed, resilience, and transparency across our ETL and orchestration stack. I've worked extensively with Python, SQL (Redshift, Snowflake, Athena), Airflow for orchestration, Docker, Terraform, and AWS services like Glue, Lambda, and S3.
+
+I'm passionate about building clean, maintainable pipelines that reduce manual touchpoints, improve iteration speed, and support both analytics and ML applications down the road. Your vision of modernizing unstructured workflows using AI aligns strongly with my interest in turning complex data into usable, scalable products.
+
+I'd love to bring my experience to your team and help accelerate your mission. Feel free to check out my profile or my resume (mypolopony.github.io) — I'd be excited to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Novel / Baselayer Team,
+
+I'm a data engineer and statistical modeler with over a decade of experience building and modernizing scalable data infrastructure across healthcare, logistics, sustainability, and financial platforms. I'm excited about your mission to deliver comprehensive identity insights—especially the focus on unifying fragmented, real-world data sources into a centralized, privacy-compliant system.
+
+Throughout my career, I've architected and optimized ETL pipelines, designed relational and NoSQL databases, and led large-scale schema normalization projects. At CloudTrucks, I built real-time anomaly detection pipelines over streaming telemetry data using Airflow and PostgreSQL, while at ProductBio, I designed graph-based ingestion systems to unify diverse product registries into a coherent, queryable structure. Across roles, I prioritize minimizing custom code for individual pipelines by developing modular, reusable internal tooling—maximizing maintainability and operational efficiency as systems scale.
+
+I'm very comfortable with PostgreSQL, Python (and libraries like Pydantic), distributed systems, and the GCP ecosystem, including Dataflow (Apache Beam) and cloud-native orchestration. My typical stacks often include Terraform, Kafka, Snowflake, pySpark, MLflow, Docker, and other distributed analytics tools, and I'm always keeping up with new technologies and standards.
+
+I'd be excited to bring my technical experience, collaborative approach, and passion for clean, reliable data infrastructure to your team. Please feel free to check out my resume and portfolio (mypolopony.github.io)—I'd love to chat more!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Arcadia team,
+
+I’m a data scientist and machine learning engineer with over a decade of experience applying statistical modeling, infrastructure design, and time series analytics to real-world challenges in sustainability, healthcare, and logistics. Arcadia's mission, to leverage AI in shaping a cleaner, smarter energy system—aligns closely with both my technical background and personal values.
+
+My recent work at Sound Agriculture and ProductBio focused on energy-adjacent sustainability problems, building robust pipelines for geospatial, hydrologic, and climate-linked data. At CloudTrucks, I led development of real-time anomaly detection for fleet telemetry using ensemble methods and isolation forests. And across projects, I’ve built and deployed ML pipelines, from regression and classification to unsupervised clustering and optimization, serving both end users and internal teams.
+
+Arcadia’s emphasis on dynamical systems and energy optimization strongly resonates with my early research work in computational biology, where I modeled systems of ODEs to understand complex, feedback-driven processes. That systems-level thinking has stayed with me: I thrive at the interface of science and engineering, particularly when collaborating across disciplines to translate insight into impact.
+
+My typical stacks usually include some combination of C++/Python/R; MLflow and ZenML with TensorFlow/Scikit-Learn for MLOps; Airflow and Docker for orchestration; Terraform for infrastructure; the AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Redshift, Lambda); Kafka for event messaging; pySpark for feature engineering; Snowflake / Redshift for data warehousing; SQL for relational querying; distributed MongoDB for NoSQL; Redis for in-memory persistence / brokering. But I'm always learning new platforms and keeping up on new technologies! 
+
+If you’re looking for someone who can move fluently between technical depth and product context, I’d love to help shape and scale Arcadia’s AI capabilities. Feel free to review my resume or project work at https://mypolopony.github.io—I'd be glad to chat more.
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi UP.Labs team,
+
+I'm a data scientist and infrastructure enginner with deep experience in building full-stack analytical and machine learning systems from the ground up, often in startup and high-ambiguity environments. Your mission of turning emergent technology into tangible startups speaks directly to my background, particularly my work across sustainability, agtech, logistics, and healthcare innovation.
+
+At Sound Agriculture and AgriData, I developed end-to-end geospatial data products, from ingestion pipelines and sensor fusion systems to predictive ML models for yield and soil behavior. I've worked with streaming data in logistics (CloudTrucks), clinical data models in healthcare (UCSF, CancerLinq), and large-scale environmental graphs (ProductBio). These roles demanded everything from fast prototyping to MVP rollout and infrastructure optimization, always under the constraints of small teams and high-impact goals.
+
+My technical toolbox includes Python, C++, SQL, and R; xgboost, lgbm, and random forests for structured modeling; scikit-learn and PyTorch for deeper ML workflows; and orchestration with Airflow, MLflow, and Docker as well as Terraform for IaC. I'm comfortable withthe AWS ecosphere for cloud solutions (ECS, EC2, SageMaker, Glue, DynamoDB, Redshift, Lambda); I’ve applied time series / frequency modeling, anomaly detection, and sensor-based data fusion across diverse domains, often transforming ambiguous data into structured, actionable insight.
+
+What excites me about UP.Labs is the opportunity to bring a strong point of view to greenfield problems, build collaboratively with multidisciplinary teams, and scale data capabilities in the earliest stages of product development. I highly value clarity, rapid prototyping, and testability.
+
+If you're seeking someone who combines technical depth, research curiosity, and startup adaptability, I'd love to explore how I can support UP.Labs' venture creation efforts. You can find my resume and projects at mypolopony.github.io.
+
+Looking forward to connecting,
+Selwyn-Lloyd McPherson
+
+
+Hi Rhizome team,
+
+I'm a data engineer and ML practitioner with a background in geospatial analytics, climate science pipelines, and infrastructure-oriented machine learning. I’ve worked extensively across sustainability and agtech, most recently building utility-scale geospatial pipelines at Sound Agriculture and sensor-driven data platforms at AgriData. Your mission to empower climate-resilient grid planning through data and decision intelligence speaks directly to my background,
+
+At Sound, I designed and deployed ingestion pipelines for multi-resolution raster and vector datasets, including remote sensing data, soil maps, DEMs, and hydrology layers, combining external climate APIs and Sentinel/Landsat imagery to drive agricultural insights. These pipelines were versioned, parameterized, and monitored with Airflow, running on AWS and ultimately feeding into ML models for predictive outcomes. At AgriData, I helped develop a sensor-integrated mapping system with onboard GPS, IMUs, and LiDAR to digitize farm infrastructure in real time—building efficient ETLs for spatial segmentation and statistical analysis in the field.
+
+My hands-on experience includes:
+
+ETL & DAG orchestration: Python (Pandas, NumPy, Xarray), Airflow, Prefect, Spark
+
+Geospatial stack: PostGIS, QGIS, GDAL, Rasterio, Earth Engine, satellite-derived weather and terrain data, combining rasters and vectors data for ML
+
+Cloud and big data: AWS (EC2, S3, Lambda, Glue), Delta Lake, Snowflake, Docker, Terraform
+
+Testing & validation: Data sanity checks, pipeline verification, unit tests, CI/CD integration
+
+Across roles, I’ve also helped shape the data interfaces for ML model deployment, writing feature extractors and optimizing storage and access patterns for large scale training and inference pipelines. I’m passionate about building modular, robust infrastructure that empowers both internal teams and real world users, especially in mission critical domains like climate adaptation and utility planning.
+
+Rhizome’s intersection of geospatial scale, scientific rigor, and grid resilience resonates with me. I'd love to bring my technical background and system thinking to your team and help expand the impact of your platform as utilities face increasingly complex climate realities.
+
+I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+
+P.S. I'm excited by the grid not only as a technical dynamical system, the kind that I've spent my career studying and modeling, but also because it is a literal lifeline for millions of people, and it’s increasingly strained by the evolving climate processes. I'm excited to support resilience planning through AI, spatial data, and principled engineering and particularly excited by the combination of earth observation and practical decision-making applied to high-stakes challenges
+
+I’m excited about Rhizome because it sits at the exact intersection of climate resilience, geospatial intelligence, and real world impact, areas that have defined much of my recent work. I’ve spent the last several years building data systems for agriculture and sustainability startups, where challenges like spatial resolution, missing data, and time-sensitive decisions were constant. Rhizome’s mission to bring clarity and foresight to utility-scale infrastructure planning through climate data feels like a natural extension of that work, and an opportunity to contribute to systems that genuinely matter.
+
+At Sound Agriculture, I built scalable ingestion pipelines for raster and vector data from satellite imagery (Sentinel, Landsat, etc), hydrology layers, soil maps, and proprietary sources. These pipelines were orchestrated with Airflow, versioned and deployed in AWS, and structured to feed both analytics and ML workflows. At AgriData, I designed real-time ETLs from sensor networks (IMU, GPS, LiDAR) to construct field level digital representations and support inference for computer vision tasks. 
+
+My hands-on experience includes:
+
+- ETL & DAG orchestration: Python (Pandas, NumPy, Xarray), Airflow, Prefect, Spark
+- Geospatial stack: PostGIS, QGIS, GDAL, Rasterio, Earth Engine, satellite-derived weather and terrain data, combining rasters and vectors data for ML
+- Cloud and big data: AWS (EC2, S3, Lambda, Glue), Delta Lake, Snowflake, Docker, Terraform
+- Testing & validation: Data sanity checks, pipeline verification, unit tests, CI/CD integration
+
+While I haven’t worked directly inside a utility, much of my work has mirrored the scale and constraints of utility environments. My pipelines have handled large, heterogeneous datasets, often incomplete or noisy, and fed into downstream modeling systems under tight timelines. At CloudTrucks, I led efforts to detect anomalies in real time fleet telemetry, using streaming sensor data and event driven infrastructure to flag operational outliers. In every early stage role I’ve had, I’ve worn many hats: building infrastructure, deploying models, managing cloud resources, and coordinating with non-technical stakeholders to ensure the systems I built solved the right problems.
+
+
+Warmly,
+Selwyn-Lloyd McPherson
+
+
+
+Hi Tyba team,
+
+I'm a data scientist and infrastructure engineer with deep experience in time series forecasting, model deployment, and an interest in sustainability. 
+
+My work has consistently centered on turning real world data into high impact decisions, especially in domains driven by dynamic systems and environmental constraints. At Sound Agriculture, I built geospatial pipelines to model agricultural productivity, using large raster and vector datasets to feed predictive models. At CloudTrucks, I focused on streaming time series analysis, including anomaly detection across thousands of freight telemetry feeds. In both cases, I worked closely with interdisciplinary teams, blending domain knowledge, statistical modeling, and infrastructure expertise to deliver insights at scale.
+
+I bring extensive experience developing pipelines and predictive systems in Python, with production ML using PyTorch, XGBoost, and Scikit-Learn; orchestration via Airflow and Docker; and deployment across AWS (ECS, Lambda, SageMaker). I’m comfortable with Git-driven collaboration, SQL-based analysis, and model monitoring in fast-moving environments. Most importantly, I’m motivated by making complex models accessible to non-technical users.
+
+I'm excited about contributing to better bidding and dispatch outcomes, collaborating across product and modeling teams, and improving predictive performance through smart feature engineering and hypothesis-driven iteration. I would love to help advance your forecasting infrastructure and push the frontier of clean energy operations.
+
+In general, I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+
+Hi Gridware team,
+
+I’m a data scientist and infrastructure engineer with a background in time series analysis, statistical modeling, and large-scale sensor systems—deeply motivated by mission-driven work that protects infrastructure and enhances resilience. Gridware’s vision of combining environmental sensing with actionable decision systems speaks directly to my passions and experience.
+
+At CloudTrucks, I designed real-time anomaly detection pipelines to monitor freight telemetry, using isolation forests to flag deviations in route adherence, stop duration, and acceleration variance. The system processed high-frequency GPS and sensor data across hundreds of vehicles, and helped operators act on early indicators of risk and inefficiency. That hands-on experience with noisy, fast-moving data has shaped how I build resilient pipelines and interpret statistical signals under uncertainty.
+
+At AgriData, I helped build mobile sensor networks (GPS, IMU, LiDAR) for mapping crop rows in real time, designing spatial pipelines and deploying computer vision models in the field. At Sound Agriculture, I ingested and harmonized geospatial layers (including raster satellite imagery, weather data, and soil maps) into predictive models used for field optimization. In both roles, I developed statistical feature pipelines, validated models with rigorous uncertainty testing, and worked closely with hardware and domain experts to refine what our sensors could teach us about the real world.
+
+I’m fluent in Python (pandas, scikit-learn, PyTorch), SQL, and geospatial tools like geopandas and xarray. I regularly design and maintain ETL pipelines using Airflow and Docker; collaborate via Git-based workflows; and communicate results via visual dashboards or written reports depending on the audience. I have particular experience with real-time sensor data, anomaly detection, signal processing, and building interpretable models that blend statistical baselines with learned components.
+
+Your focus on reliability, safety, and proactive insight for the electrical grid is both inspiring and urgent. I’d love to bring my technical skills and research mindset to Gridware’s Applied Research team to help surface the signals that matter and drive operational decisions with confidence.
+
+Best,
+Selwyn-Lloyd McPherson
+mypolopony.github.io
+
+
+
+
+Hi IAS Fraud Team,
+
+I'm a data scientist and engineer with over a decade of experience delivering machine learning and data infrastructure solutions across domains, from fleet telemetry and agtech to clinical modeling and real-time computer vision. What drew me to this role is its scale, your commitment to deeply technical, scientific approaches, and your blend of research and engineering rigor in the fight against fraud.
+
+I began my career in computational neuroscience, where I modeled signal deflection from time-locked stimuli in EEG data to classify high-risk neuropsychiatric states. That work required fluency in feature extraction, classification, and statistical modeling, and instilled in me a core intuition for time series analysis, system-level complexity, and anomaly detection that continues to shape my work today.
+
+At AgriData, I led the development of an end-to-end machine learning pipeline for a mobile vision platform that digitized crop rows using on-device GPU inference and sensor fusion. I designed and deployed the model training pipeline, handled pre- and post-processing, and built the microservice-based architecture to deliver predictions in the field. This was a deeply interdisciplinary project: part robotics, part geospatial data engineering, part ML systems design. It gave me a foundation for deploying ML in production environments under real world constraints.
+
+Since then, I've worked across sectors building scalable anomaly detection systems (CloudTrucks), ingesting multi-modal and geospatial data (Sound Agriculture), and working closely with product teams to deploy, monitor, and continuously improve ML-based systems. Across roles, I've prioritized reproducibility, interpretability, and visibility, and accountability. My favorite kinds of problems are the those that require digging, debugging, and developing new infrastructure to uncover patterns and isolate edge cases.
+
+I'm interested in a team where fundamental science, novel ML, and production-grade impact are deeply intertwined.
+
+In general, I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi Inspiren team,
+
+I'm a data scientist and engineer with over a decade of experience across healthcare, agtech, and sustainability. Although I attended medical school, and though I ultimately chose not to pursue clinical practice, the training deeply shaped how I approach complex systems, care delivery, and health outcomes. I’m especially drawn to roles where data science meets compassionate care, and insights are used to drive real improvements in people’s lives.
+
+At UCSF, I worked in neuropsychiatric research, analyzing multimodal patient data—EEG, imaging, audio, and behavioral signals to identify early biomarkers of developmental disorders. Since then, I’ve brought that same rigor and systems thinking to real-time sensor fusion, large-scale geospatial modeling, and machine learning pipelines in startup settings. At AgriData, I built and deployed an end-to-end platform for real-time vision and sensor data in the field. At Sound Agriculture, I engineered data pipelines that integrated field trials, satellite imagery, and biological markers to support predictive modeling.
+
+I'm excited by the opportunity at Inspiren to take what I’ve learned across clinical data, analytics infrastructure, and algorithm design and apply it to a system that directly improves care delivery in senior living. I’ve worked closely with cross-functional teams, from field operators to scientists, and enjoy turning data into insight, whether through pipelines, dashboards, or model development. I’m fluent in Python, pandas, matplotlib, and SQL, with production experience in Airflow, Tableau, and the broader AWS ecosystem.
+
+Inspiren’s blend of clinical insight and elegant technical design really resonates with me. I’d love to contribute to your mission and help bring actionable intelligence into the hands of caregivers.
+
+In general, I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+
+Hi Together AI team,
+
+I'm a data infrastructure engineer with over a decade of experience designing streaming pipelines, optimizing analytics systems, and orchestrating ML workflows in fast-paced, mission-critical environments. The opportunity to help define and scale Together AI’s data infrastructure, especially for real-time analytics and billing at AI scale, is exactly the kind of challenge I’m passionate about.
+
+At CloudTrucks, I built real-time anomaly detection systems over Kafka pipelines and TimeStream databases for fleet telemetry. We ingested sensor events across a distributed fleet and used isolation forests and streaming transformations to surface operational anomalies. At Sound Agriculture, I managed high-throughput geospatial data pipelines across AWS (with EC2, ECS, Lambda, Kinesis, Sagemaker, Glue, and Terraform-managed infrastructure) to deliver predictive insights for soil health and crop performance. In both roles, I’ve worked closely with engineering and product stakeholders to ensure that data processing was not just performant, but also fault-tolerant, interpretable, and developer-friendly.
+
+While Python has long been a staple of my toolset, I’ve worked in C++, R, Java and Bash. I’m a strong believer in reproducibility and maintainability: I’ve managed microservice deployments using Docker and Airflow and have been diving deeper into Snowflake recently. Moreover, I'm excited to learn more about the blend of systems that is powering your stack.
+
+In general, I like working with empathetic folks, both technical and non-technical, who bring depth, creativity, and different approaches to a shared mission. Please feel free to check out my profile or my resume (https://mypolopony.github.io) -- I'd love to chat more!
+
+All the best,
+Selwyn-Lloyd McPherson
+
+
+Hi Mochi Health team,
+
+I'm a data scientist and engineer with over a decade of experience designing end-to-end analytics systems in healthcare, logistics, and sustainability, often where mess meets complexity. I'm excited by your mission and would love to help scale your operations with clear metrics, smarter tooling, and lightweight automation.
+
+At Sound Agriculture, I built large-scale geospatial data pipelines and predictive models to guide crop treatment decisions. At CancerLinq, I optimized healthcare ETL pipelines with Airflow and SQL to improve downstream patient data integrity. And at AgriData, I delivered ML pipelines for robotics and imaging, from real-time model inference to stakeholder dashboards, combining operational clarity with engineering pragmatism.
+
+I’ve deployed dashboards, automated workflows with Python, built backend services in Flask, and used SQL extensively for production analytics. I’m also enthusiastic about integrating LLMs and generative AI to eliminate inefficiencies and bring more clarity to messy workflows. Whether the right solution is a lightweight Google Sheet, a causal analysis, or an internal API, I care about picking the right tool for the job, and getting things shipped.
+
+I'd love to bring my operational instincts, healthcare fluency, and builder mindset to the team. You can find more about me at https://mypolopony.github.io. Looking forward to connecting!
+
+Best,
+Selwyn-Lloyd McPherson
+
+
+Hi Ōura team,
+
+I'm a machine learning engineer and data scientist with a foundation in medical research and a passion for building systems that empower people to live healthier lives. I was drawn to Ōura not just for your leadership in wearable tech, but specifically for your growing focus on women's health. During medical school, I had a deep interest in obstetrics and gynecology and what resonates most about this position is opportunity to improve care through both rigorous science and compassionate design.
+
+Over the last 10+ years, I’ve delivered machine learning, signal processing, and data infrastructure solutions across clinical research, digital health, and high-throughput sensor analytics. In neuroimaging at UCSF, I worked with multi-modal time-series data to classify cognitive risk groups using nonstationary signals like EEG and fMRI. At Sound Agriculture and AgriData, I led end-to-end ML pipelines. from real-time computer vision to model deployment and statistical calibration. focused on high dimensional, sensor nased datasets.
+
+My typical stacks include Python (NumPy, SciPy, PyTorch, TensorFlow), SQL, and Airflow for orchestration, with cloud tools (AWS, SageMaker, Docker) for scaling experimentation. I've also worked closely with research teams, product managers, and engineering to bridge deep technical work with real-world outcomes, especially in early stage environments. I'm excited to bring this experience to support women's health, resilience, and agency.
+
+Your integration of signal science, user-centered design, and compassionate healthcare aligns deeply with my own goals. I’d love to explore how I can contribute to your team. You can find more about me at https://mypolopony.github.io. I look forward to hearing from you!
+
+Warm regards,
+Selwyn-Lloyd McPherson
+
+
+Hi Coastal Carbon,
+
+I'm a data and ML engineer with a background in environmental modeling, large-scale data systems, and scientific computing. I'm excited by your mission to build a digital twin of the natural world. The opportunity to integrate geospatial infrastructure with scalable AI systems resonates deeply with my experience and goals. For years, I've been passionate about applying computation to real world systems, particularly where climate, health, and infrastructure intersect.
+
+At Sound Agriculture, I designed ingestion pipelines and geospatial processing systems for satellite and environmental sensor data (Sentinel, Copernicus DEM, USGS Landsat), across the AWS ecosystem (with EC2, ECS, Lambda, Kinesis, Sagemaker, Glue, and Terraform-managed infrastructure). At AgriData, I helped build a semi-autonomous field analytics platform for growers, merging IMU, GPS, and LiDAR data in real time. Across roles, I've built and maintained large ETL pipelines and designed resilient architectures for transforming geospatial and time-series datasets into usable features.
+
+While Python has long been a staple of my toolset, I've worked in C++, R, Java and Bash. I'm familiar with modern MLOps and orchestration frameworks. I've worked with PostGIS, raster and vector based data, and event driven architectures across environmental and sustainability focused domains. What excites me about HUM.AI is the potential to work directly on multi-petabyte Earth observation data in a fast-moving, high impact setting and helping make the physical world more visible, interpretable, and ultimately more resilient.
+
+I love collaborating with empathetic people across disciplines, and I'm energized by the challenge of creating elegant systems for complex data. Please feel free to explore more about me at https://mypolopony.github.io. I look forward to hearing from you!
+
+Warm regards,
+Selwyn-Lloyd McPherson
+
+
+Hi Dinamo team,
+
+I'm a computational biologist and data scientist with deep experience in high-dimensional biological modeling, bioinformatics, and systems-level analysis. My background, beginning even before medical school, spans computational modeling of protein networks, clinical neuroimaging research, and large-scale omics analysis. I'm especially drawn to the opportunity to build tools that bring clarity to complex biological systems.
+
+In my early research, I focused on systems biology approaches to understand protein–protein interaction networks and dynamic flux models of enzyme cascades. Later, at UCSF, I led neuropsychiatric imaging studies combining time-series electrophysiology, MRI, and behavioral phenotyping. These efforts required developing robust signal processing and classification pipelines in Python, R, and MATLAB, and taught me how to extract meaningful signal from messy, noisy biological data.
+
+I've spent the last decade in industry building data intensive systems in healthcare, agtech, and sustainability, often starting from scratch and seeing pipelines through to production. I've worked across the full data lifecycle: from molecular and sensor-level ingestion to machine learning modeling, visualization, and decision support. I've also worked with real-world clinical data, and I'm comfortable moving between ad hoc data exploration, benchmark studies, and ML/AI prototyping.
+
+My toolkit includes Python (pandas, scikit-learn, NumPy, pyMultiOmics, OpenOmics), R, and compiled languages for performance bottlenecks. I have experience with cloud-based infrastructure (AWS, Docker), and workflow managers (Airflow), and I’m always curious to learn from wet lab collaborators to help inform and validate the computational perspective.
+
+Your commitment to combining molecular biology and advanced analytics to untangle autoimmune complexity is exactly the kind of work that motivates me, and I’d be thrilled to contribute to that mission.
+
+Please feel free to explore more about me at https://mypolopony.github.io. I’d love to connect further.
+
+Warm regards,
+Selwyn-Lloyd McPherson
+
+
